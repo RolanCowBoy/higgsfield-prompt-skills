@@ -1,0 +1,4 @@
+interface:
+  display_name: "Higgsfield: точечная правка"
+  short_description: "Меняет нужные детали, сохраняя остальное изображение"
+  default_prompt: "Используй $hf-image-edit: подготовь промпт для точечной правки в Higgsfield."

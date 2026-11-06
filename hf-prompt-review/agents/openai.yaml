@@ -1,0 +1,4 @@
+interface:
+  display_name: "Higgsfield: проверка промпта"
+  short_description: "Проверяет логику, референсы и постановку промпта"
+  default_prompt: "Используй $hf-prompt-review: проверь и исправь мой промпт для Higgsfield."

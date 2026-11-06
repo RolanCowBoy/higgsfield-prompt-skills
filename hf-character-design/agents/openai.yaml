@@ -1,0 +1,4 @@
+interface:
+  display_name: "Higgsfield: создание персонажа"
+  short_description: "Создаёт выразительный и узнаваемый дизайн героя"
+  default_prompt: "Используй $hf-character-design: создай промпт для нового персонажа в Higgsfield."

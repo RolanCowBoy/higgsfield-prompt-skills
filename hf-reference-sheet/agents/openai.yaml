@@ -1,0 +1,4 @@
+interface:
+  display_name: "Higgsfield: лист персонажа"
+  short_description: "Сохраняет дизайн героя в ракурсах, эмоциях и позах"
+  default_prompt: "Используй $hf-reference-sheet: подготовь промпт для листа моего персонажа в Higgsfield."

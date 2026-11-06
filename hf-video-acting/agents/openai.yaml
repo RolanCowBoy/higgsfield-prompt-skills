@@ -1,0 +1,4 @@
+interface:
+  display_name: "Higgsfield: актёрская сцена"
+  short_description: "Переводит намерение героя в читаемое действие"
+  default_prompt: "Используй $hf-video-acting: подготовь промпт актёрской сцены для Higgsfield."
